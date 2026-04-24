@@ -1,0 +1,1 @@
+docker -d --name superman -p 8081:80 nginx
