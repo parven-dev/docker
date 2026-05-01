@@ -1,0 +1,2 @@
+docker pull ubuntu:latest 
+docker run myhero  --name my_hero ubuntu:latest sleep 2500
