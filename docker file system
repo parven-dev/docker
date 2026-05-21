@@ -1,4 +1,4 @@
-Volume mounts
+Volume mounts # v docker run -d --name pet_food_site -p 8081:80 -v hopta:/usr/share/nginx/html/ nginx:alpine
 Bind mounts
 tmpfs mounts
 Named pipes
