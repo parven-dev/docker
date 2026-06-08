@@ -1,1 +1,1 @@
-docker network create mynet
+docker network connect my_net isolated_backend
